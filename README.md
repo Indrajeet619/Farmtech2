@@ -31,16 +31,13 @@ AI model is trained using tensor flow, Ibm watson studio and IBM cloud engine to
 ### Solution architecture
 
 
-## Presentation materials
-
-
 
 ### Solution demo video
 https://www.youtube.com/watch?v=j7-jP6SlAYQ 
 
 
 ### Project development roadmap
-
+![Roadmap](./Roadmap/Roadmap2023.png)
 
 ### How to run the project
 
