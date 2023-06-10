@@ -29,6 +29,7 @@ AI model is trained using tensor flow, Ibm watson studio and IBM cloud engine to
 
 
 ### Solution architecture
+![Architecture](https://github.com/Indrajeet619/Farmtech2/assets/31442399/5445209b-9a13-4e3a-ab33-41a092e96093)
 
 
 
@@ -37,7 +38,9 @@ https://www.youtube.com/watch?v=j7-jP6SlAYQ
 
 
 ### Project development roadmap
-![Roadmap](./Roadmap/Roadmap2023.png)
+![Roadmap2023](https://github.com/Indrajeet619/Farmtech2/assets/31442399/38aba41e-050f-4468-853e-9c33496a1cdc)
+
+
 
 ### How to run the project
 
